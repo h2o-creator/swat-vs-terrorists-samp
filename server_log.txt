@@ -1,0 +1,3266 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:06:32] plugins = ""  (string)
+[19:06:32] 
+[19:06:32] Server Plugins
+[19:06:32] --------------
+[19:06:32]  Loaded 0 plugins.
+
+[19:06:32] 
+[19:06:32] Filterscripts
+[19:06:32] ---------------
+[19:06:32]   Loaded 0 filterscripts.
+
+[19:06:32] Script[gamemodes/SvT.amx]: Run time error 19: "File or function is not found"
+[19:06:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:06:42] plugins = ""  (string)
+[19:06:42] 
+[19:06:42] Server Plugins
+[19:06:42] --------------
+[19:06:42]  Loaded 0 plugins.
+
+[19:06:42] 
+[19:06:42] Filterscripts
+[19:06:42] ---------------
+[19:06:42]   Loaded 0 filterscripts.
+
+[19:06:43] Script[gamemodes/SvT.amx]: Run time error 19: "File or function is not found"
+[19:06:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:51] 
+[19:44:51] Server Plugins
+[19:44:51] --------------
+[19:44:51]  Loading plugin: sscanf.so
+[19:44:51] 
+
+[19:44:51]  ===============================
+
+[19:44:51]       sscanf plugin loaded.     
+
+[19:44:51]          Version:  2.8.3        
+
+[19:44:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:44:51]  ===============================
+
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: mysql.so
+[19:44:51]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: streamer.so
+[19:44:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: crashdetect.so
+[19:44:51]   CrashDetect must be loaded before 'streamer.so'
+[19:44:51]   Failed.
+[19:44:51]  Loading plugin: bcrypt-samp.so
+[19:44:51]   plugin.bcrypt v2.2.4 was loaded.
+[19:44:51]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: SKY.so
+[19:44:51] 
+[19:44:51]  ===============================
+[19:44:51]    
+[19:44:51]    < SKY - 2.2.2 >
+[19:44:51]    
+[19:44:51]    (c) 2008 - Present | YSF Maintainers
+[19:44:51]    (c) 2015 | Oscar "Slice" Broman
+[19:44:51]    
+[19:44:51]    Server Version: 0.3.7 R2
+[19:44:51]    Operating System: Linux
+[19:44:51]    Built on: Jan 20 2020 at 22:20:49
+[19:44:51]    
+[19:44:51]  ===============================
+[19:44:51] 
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: pawncmd.so
+[19:44:51] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: pawnraknet.so
+[19:44:51] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: pawnregex.so
+[19:44:51] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[19:44:51]   Loaded.
+[19:44:51]  Loading plugin: discord-connector.so
+[19:44:51]  >> plugin.dc-connector: bot token not specified in environment variable or server config.
+[19:44:51]   Failed.
+[19:44:51]  Loading plugin: ColAndreas_static.so
+[19:44:51] *********************
+[19:44:51] ** Created By:     **
+[19:44:51] ** [uL]Chris42O    **
+[19:44:51] ** [uL]Slice       **
+[19:44:51] ** [uL]Pottus      **
+[19:44:51] *********************
+[19:45:15] Loaded collision data.
+[19:45:15] *********************
+[19:45:15]   ColAndreas Loaded
+[19:45:15]    v1.4.0
+[19:45:15] *********************
+[19:45:15]   Loaded.
+[19:45:15]  Loaded 9 plugins.
+
+[19:45:15] 
+[19:45:15] Filterscripts
+[19:45:15] ---------------
+[19:45:15]   Loaded 0 filterscripts.
+
+[19:45:15] Script[gamemodes/SvT.amx]: Run time error 19: "File or function is not found"
+[19:45:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:41] 
+[19:46:41] Server Plugins
+[19:46:41] --------------
+[19:46:41]  Loading plugin: crashdetect.so
+[19:46:41]   CrashDetect plugin 4.19.4
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: sscanf.so
+[19:46:41] 
+
+[19:46:41]  ===============================
+
+[19:46:41]       sscanf plugin loaded.     
+
+[19:46:41]          Version:  2.8.3        
+
+[19:46:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:46:41]  ===============================
+
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: mysql.so
+[19:46:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: streamer.so
+[19:46:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: bcrypt-samp.so
+[19:46:41]   plugin.bcrypt v2.2.4 was loaded.
+[19:46:41]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: SKY.so
+[19:46:41] 
+[19:46:41]  ===============================
+[19:46:41]    
+[19:46:41]    < SKY - 2.2.2 >
+[19:46:41]    
+[19:46:41]    (c) 2008 - Present | YSF Maintainers
+[19:46:41]    (c) 2015 | Oscar "Slice" Broman
+[19:46:41]    
+[19:46:41]    Server Version: 0.3.7 R2
+[19:46:41]    Operating System: Linux
+[19:46:41]    Built on: Jan 20 2020 at 22:20:49
+[19:46:41]    
+[19:46:41]  ===============================
+[19:46:41] 
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: pawncmd.so
+[19:46:41] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: pawnraknet.so
+[19:46:41] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: pawnregex.so
+[19:46:41] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[19:46:41]   Loaded.
+[19:46:41]  Loading plugin: ColAndreas_static.so
+[19:46:41] *********************
+[19:46:41] ** Created By:     **
+[19:46:41] ** [uL]Chris42O    **
+[19:46:41] ** [uL]Slice       **
+[19:46:41] ** [uL]Pottus      **
+[19:46:41] *********************
+[19:47:05] Loaded collision data.
+[19:47:05] *********************
+[19:47:05]   ColAndreas Loaded
+[19:47:05]    v1.4.0
+[19:47:05] *********************
+[19:47:05]   Loaded.
+[19:47:05]  Loaded 10 plugins.
+
+[19:47:05] 
+[19:47:05] Filterscripts
+[19:47:05] ---------------
+[19:47:05]   Loaded 0 filterscripts.
+
+[19:47:05]  
+[19:47:05]  ========================================== 
+[19:47:05]  |                                        | 
+[19:47:05]  |    Generating code, this may take a    | 
+[19:47:05]  |           little bit of time.          | 
+[19:47:05]  |                                        | 
+[19:47:05]  |             Please wait...             | 
+[19:47:05]  |                                        | 
+[19:47:05]  | You can disable this message with:     | 
+[19:47:05]  |                                        | 
+[19:47:05]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[19:47:05]  |                                        | 
+[19:47:05]  ========================================== 
+[19:47:05]  |                                        | 
+[19:47:05]  | Note that this code generation works   | 
+[19:47:05]  | best with the JIT plugin, which you    | 
+[19:47:05]  | are not currently using.  Get it here: | 
+[19:47:05]  |                                        | 
+[19:47:05]  |        https://git.io/jit-plugin       | 
+[19:47:05]  |                                        | 
+[19:47:05]  ========================================== 
+[19:47:05]  
+[19:47:43]  
+[19:47:43]  ========================================== 
+[19:47:43]  |                                        | 
+[19:47:43]  |   File dumped to YSI code cache:       | 
+[19:47:43]  |                                        | 
+[19:47:43]  |      scriptfiles/YSI_CACHE.amx         | 
+[19:47:43]  |                                        | 
+[19:47:43]  | Load this file instead to skip this    | 
+[19:47:43]  | code optimisation step in the future.  | 
+[19:47:43]  | Note that if you have multiple scripts | 
+[19:47:43]  | loading at once (i.e. gamemodes,       | 
+[19:47:43]  | filterscripts, and modules) you may    | 
+[19:47:43]  | need to load and cache them            | 
+[19:47:43]  | individually so that they don't        | 
+[19:47:43]  | clobber each other.  If you don't, in  | 
+[19:47:43]  | "server.cfg", the following works:     | 
+[19:47:43]  |                                        | 
+[19:47:43]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[19:47:43]  |                                        | 
+[19:47:43]  | You can disable this message with:     | 
+[19:47:43]  |                                        | 
+[19:47:43]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[19:47:43]  |                                        | 
+[19:47:43]  | You can disable this caching with:     | 
+[19:47:43]  |                                        | 
+[19:47:43]  |   #define YSI_NO_MODE_CACHE            | 
+[19:47:43]  |                                        | 
+[19:47:43]  | You can explicitly enable it with:     | 
+[19:47:43]  |                                        | 
+[19:47:43]  |   #define YSI_YES_MODE_CACHE           | 
+[19:47:43]  |                                        | 
+[19:47:43]  ========================================== 
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  ========================================== 
+[19:47:43]  |                                        | 
+[19:47:43]  |         YSI version 5.03.0689          | 
+[19:47:43]  |         By Alex "Y_Less" Cole          | 
+[19:47:43]  |                                        | 
+[19:47:43]  | You can disable this message with:     | 
+[19:47:43]  |                                        | 
+[19:47:43]  |   #define YSI_NO_VERSION_CHECK         | 
+[19:47:43]  |                                        | 
+[19:47:43]  ========================================== 
+[19:47:43]  
+[19:47:43] 
+  * iAchieve :: Advanced Achievement System by iPLEOMAX, 2011 *
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": SkinFile =
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosZ = 74.1295
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosY = 2593.8542
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosX = -252.7922
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassPosRot = 144.1513
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassPosZ = 70.6197
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassPosY = 2597.0398
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": AfterClassPosX = -250.4900
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ClassSkin = 294
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ClassPosRot = 85.6385
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ClassPosZ = 17.6730
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ClassPosY = 2500.9282
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ClassPosX = 427.9831
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn3Rot = 2.6054
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn3Z = 62.7031
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn3Y = 2596.3394
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn3X = -231.4705
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn2Rot = 274.2680
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn2Z = 62.9141
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn2Y = 2601.2783
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn2X = -249.3398
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn1Rot = 2.2921
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn1Z = 62.8314
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn1Y = 2659.0698
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": Spawn1X = -200.8497
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": MapZoneMaxY = 2836.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": MapZoneMaxX = -92.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": MapZoneMinY = 2564.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": MapZoneMinX = -390.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": TeamInvColor = 0x11ebe8FF
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": TeamColor = 0x11ebe8FF
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": ShopColor = 0x11ebe8FF
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": TeamBubble = ~b~~h~~h~
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "3": TeamName = Japan
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": [Antenna]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AntennaRot = 88.9477
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AntennaPosZ = 19.7398
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AntennaPosY = 1157.7542
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AntennaPosX = 23.1212
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": [Shop]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopActorRot = 358.0456
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopActorPosZ = 19.7500
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopActorPosY = 1079.7727
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopActorPosX = -141.2205
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopPosZ = 19.7422
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopPosY = 1081.7484
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopPosX = -141.1818
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": [Main]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": SkinFile =
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosZ = 36.8463
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosY = 1073.6250
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosX = -185.9547
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassPosRot = 3.3741
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassPosZ = 19.7422
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassPosY = 1077.7484
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": AfterClassPosX = -137.1818
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ClassSkin = 111
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ClassPosRot = 85.6385
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ClassPosZ = 17.6730
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ClassPosY = 2500.9282
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ClassPosX = 427.9831
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn3Rot = 356.8174
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn3Z = 19.7422
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn3Y = 1084.0930
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn3X = -86.0214
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn2Rot = 3.3741
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn2Z = 19.7422
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn2Y = 1077.7484
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn2X = -137.1818
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn1Rot = 3.3741
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn1Z = 19.7422
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn1Y = 1077.7484
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": Spawn1X = -137.1818
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": MapZoneMaxY = 1241.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": MapZoneMaxX = 98.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": MapZoneMinY = 1008.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": MapZoneMinX = -287.0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": TeamInvColor = 0xc6c6c6ff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": TeamColor = 0xc6c6c6ff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": ShopColor = 0xc6c6c6ff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": TeamBubble = ~w~
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "4": TeamName = Russia
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": [Antenna]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AntennaRot = 12.9112
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AntennaPosZ = 27.0154
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AntennaPosY = 1531.7704
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AntennaPosX = -751.1929
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": [Shop]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopActorRot = 274.3062
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopActorPosZ = 27.1222
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopActorPosY = 1570.1417
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopActorPosX = -826.3849
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopPosZ = 27.1222
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopPosY = 1569.8728
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopPosX = -824.2479
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": [Main]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": SkinFile =
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosZ = 43.1710
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosY = 1570.3118
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosX = -814.0912
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassPosRot = 0.4502
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassPosZ = 27.1222
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassPosY = 1568.2810
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": AfterClassPosX = -823.8150
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ClassSkin = 179
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ClassPosRot = 85.6385
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ClassPosZ = 17.6730
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ClassPosY = 2500.9282
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ClassPosX = 427.9831
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn3Rot = 182.4986
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn3Z = 27.2166
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn3Y = 1594.7371
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn3X = -794.4661
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn2Rot = 91.6310
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn2Z = 26.9936
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn2Y = 1571.1210
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn2X = -797.8417
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn1Rot = 0.4502
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn1Z = 27.1222
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn1Y = 1568.2810
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": Spawn1X = -823.8150
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": MapZoneMaxY = 1623.225
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": MapZoneMaxX = -607.2495
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": MapZoneMinY = 1389.667
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": MapZoneMinX = -875.8406
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": TeamInvColor = 0xc8aa4aff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": TeamColor = 0xc8aa4aff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": ShopColor = 0xc8aa4aff
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": TeamBubble = ~y~
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "5": TeamName = Arabia
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": [Main]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": ProtoRot = 273.4680
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": ProtoPosZ = 48.0829
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": ProtoPosY = 2185.4053
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": ProtoPosX = -478.7235
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "0": TeamId = 0
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": [Main]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": ProtoRot = 357.908996
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": ProtoPosZ = 12.730999
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": ProtoPosY = 1856.715820
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": ProtoPosX = 221.286499
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "1": TeamId = 1
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": [Main]
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": ProtoRot = 0.000000
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": ProtoPosZ = 71.435401
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": ProtoPosY = 2638.833740
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": ProtoPosX = -1547.797119
+
+[19:47:43] *** YSI Warning: Invalid line in INI file "2": TeamId = 2
+
+[19:47:43] Loaded 34 zones.
+[19:47:43] Invalid MySQL server... Restarting.
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  =======================================
+[19:47:43]  |                                     |
+[19:47:43]  |         SvT Build 3 Script          |
+[19:47:43]  |               By H2O                |
+[19:47:43]  |                                     |
+[19:47:43]  =======================================
+[19:47:43]  
+[19:47:43]  
+[19:47:43]  
+[19:47:43] Number of vehicle models: 73
+[19:47:43] Unloaded 34 zones.
+[19:47:43] SvT was unloaded in 14 ms.
+[19:47:55]  
+[19:47:55]  ========================================== 
+[19:47:55]  |                                        | 
+[19:47:55]  |    Generating code, this may take a    | 
+[19:47:55]  |           little bit of time.          | 
+[19:47:55]  |                                        | 
+[19:47:55]  |             Please wait...             | 
+[19:47:55]  |                                        | 
+[19:47:55]  | You can disable this message with:     | 
+[19:47:55]  |                                        | 
+[19:47:55]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[19:47:55]  |                                        | 
+[19:47:55]  ========================================== 
+[19:47:55]  |                                        | 
+[19:47:55]  | Note that this code generation works   | 
+[19:47:55]  | best with the JIT plugin, which you    | 
+[19:47:55]  | are not currently using.  Get it here: | 
+[19:47:55]  |                                        | 
+[19:47:55]  |        https://git.io/jit-plugin       | 
+[19:47:55]  |                                        | 
+[19:47:55]  ========================================== 
+[19:47:55]  
+[19:48:28]  
+[19:48:28]  ========================================== 
+[19:48:28]  |                                        | 
+[19:48:28]  |   File dumped to YSI code cache:       | 
+[19:48:28]  |                                        | 
+[19:48:28]  |      scriptfiles/YSI_CACHE.amx         | 
+[19:48:28]  |                                        | 
+[19:48:28]  | Load this file instead to skip this    | 
+[19:48:28]  | code optimisation step in the future.  | 
+[19:48:28]  | Note that if you have multiple scripts | 
+[19:48:28]  | loading at once (i.e. gamemodes,       | 
+[19:48:28]  | filterscripts, and modules) you may    | 
+[19:48:28]  | need to load and cache them            | 
+[19:48:28]  | individually so that they don't        | 
+[19:48:28]  | clobber each other.  If you don't, in  | 
+[19:48:28]  | "server.cfg", the following works:     | 
+[19:48:28]  |                                        | 
+[19:48:28]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[19:48:28]  |                                        | 
+[19:48:28]  | You can disable this message with:     | 
+[19:48:28]  |                                        | 
+[19:48:28]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[19:48:28]  |                                        | 
+[19:48:28]  | You can disable this caching with:     | 
+[19:48:28]  |                                        | 
+[19:48:28]  |   #define YSI_NO_MODE_CACHE            | 
+[19:48:28]  |                                        | 
+[19:48:28]  | You can explicitly enable it with:     | 
+[19:48:28]  |                                        | 
+[19:48:28]  |   #define YSI_YES_MODE_CACHE           | 
+[19:48:28]  |                                        | 
+[19:48:28]  ========================================== 
+[19:48:28]  
+[19:48:28]  
+[19:48:28]  
+[19:48:28]  
+[19:48:28]  ========================================== 
+[19:48:28]  |                                        | 
+[19:48:28]  |         YSI version 5.03.0689          | 
+[19:48:28]  |         By Alex "Y_Less" Cole          | 
+[19:48:28]  |                                        | 
+[19:48:28]  | You can disable this message with:     | 
+[19:48:28]  |                                        | 
+[19:48:28]  |   #define YSI_NO_VERSION_CHECK         | 
+[19:48:28]  |                                        | 
+[19:48:28]  ========================================== 
+[19:48:28]  
+[19:48:28] 
+  * iAchieve :: Advanced Achievement System by iPLEOMAX, 2011 *
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": SkinFile =
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosZ = 74.1295
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosY = 2593.8542
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassCamPosX = -252.7922
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassPosRot = 144.1513
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassPosZ = 70.6197
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassPosY = 2597.0398
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": AfterClassPosX = -250.4900
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": ClassSkin = 294
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": ClassPosRot = 85.6385
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": ClassPosZ = 17.6730
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": ClassPosY = 2500.9282
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": ClassPosX = 427.9831
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn3Rot = 2.6054
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn3Z = 62.7031
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn3Y = 2596.3394
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn3X = -231.4705
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn2Rot = 274.2680
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn2Z = 62.9141
+
+[19:48:28] *** YSI Warning: Invalid line in INI file "3": Spawn2Y = 2601.2783
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": Spawn2X = -249.3398
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": Spawn1Rot = 2.2921
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": Spawn1Z = 62.8314
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": Spawn1Y = 2659.0698
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": Spawn1X = -200.8497
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": MapZoneMaxY = 2836.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": MapZoneMaxX = -92.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": MapZoneMinY = 2564.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": MapZoneMinX = -390.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": TeamInvColor = 0x11ebe8FF
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": TeamColor = 0x11ebe8FF
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": ShopColor = 0x11ebe8FF
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": TeamBubble = ~b~~h~~h~
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "3": TeamName = Japan
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": [Antenna]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AntennaRot = 88.9477
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AntennaPosZ = 19.7398
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AntennaPosY = 1157.7542
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AntennaPosX = 23.1212
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": [Shop]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopActorRot = 358.0456
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopActorPosZ = 19.7500
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopActorPosY = 1079.7727
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopActorPosX = -141.2205
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopPosZ = 19.7422
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopPosY = 1081.7484
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopPosX = -141.1818
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": [Main]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": SkinFile =
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosZ = 36.8463
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosY = 1073.6250
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassCamPosX = -185.9547
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassPosRot = 3.3741
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassPosZ = 19.7422
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassPosY = 1077.7484
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": AfterClassPosX = -137.1818
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ClassSkin = 111
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ClassPosRot = 85.6385
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ClassPosZ = 17.6730
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ClassPosY = 2500.9282
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ClassPosX = 427.9831
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn3Rot = 356.8174
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn3Z = 19.7422
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn3Y = 1084.0930
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn3X = -86.0214
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn2Rot = 3.3741
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn2Z = 19.7422
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn2Y = 1077.7484
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn2X = -137.1818
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn1Rot = 3.3741
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn1Z = 19.7422
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn1Y = 1077.7484
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": Spawn1X = -137.1818
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": MapZoneMaxY = 1241.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": MapZoneMaxX = 98.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": MapZoneMinY = 1008.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": MapZoneMinX = -287.0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": TeamInvColor = 0xc6c6c6ff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": TeamColor = 0xc6c6c6ff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": ShopColor = 0xc6c6c6ff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": TeamBubble = ~w~
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "4": TeamName = Russia
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": [Antenna]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AntennaRot = 12.9112
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AntennaPosZ = 27.0154
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AntennaPosY = 1531.7704
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AntennaPosX = -751.1929
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": [Shop]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopActorRot = 274.3062
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopActorPosZ = 27.1222
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopActorPosY = 1570.1417
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopActorPosX = -826.3849
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopPosZ = 27.1222
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopPosY = 1569.8728
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopPosX = -824.2479
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": [Main]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": SkinFile =
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosZ = 43.1710
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosY = 1570.3118
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassCamPosX = -814.0912
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassPosRot = 0.4502
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassPosZ = 27.1222
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassPosY = 1568.2810
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": AfterClassPosX = -823.8150
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ClassSkin = 179
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ClassPosRot = 85.6385
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ClassPosZ = 17.6730
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ClassPosY = 2500.9282
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ClassPosX = 427.9831
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn3Rot = 182.4986
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn3Z = 27.2166
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn3Y = 1594.7371
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn3X = -794.4661
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn2Rot = 91.6310
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn2Z = 26.9936
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn2Y = 1571.1210
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn2X = -797.8417
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn1Rot = 0.4502
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn1Z = 27.1222
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn1Y = 1568.2810
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": Spawn1X = -823.8150
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": MapZoneMaxY = 1623.225
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": MapZoneMaxX = -607.2495
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": MapZoneMinY = 1389.667
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": MapZoneMinX = -875.8406
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": TeamInvColor = 0xc8aa4aff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": TeamColor = 0xc8aa4aff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": ShopColor = 0xc8aa4aff
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": TeamBubble = ~y~
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "5": TeamName = Arabia
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": [Main]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": ProtoRot = 273.4680
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": ProtoPosZ = 48.0829
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": ProtoPosY = 2185.4053
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": ProtoPosX = -478.7235
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "0": TeamId = 0
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": [Main]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": ProtoRot = 357.908996
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": ProtoPosZ = 12.730999
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": ProtoPosY = 1856.715820
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": ProtoPosX = 221.286499
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "1": TeamId = 1
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": [Main]
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": ProtoRot = 0.000000
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": ProtoPosZ = 71.435401
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": ProtoPosY = 2638.833740
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": ProtoPosX = -1547.797119
+
+[19:48:29] *** YSI Warning: Invalid line in INI file "2": TeamId = 2
+
+[19:48:29] Loaded 34 zones.
+[19:48:29] Invalid MySQL server... Restarting.
+[19:48:29]  
+[19:48:29]  
+[19:48:29]  
+[19:48:29]  =======================================
+[19:48:29]  |                                     |
+[19:48:29]  |         SvT Build 3 Script          |
+[19:48:29]  |               By H2O                |
+[19:48:29]  |                                     |
+[19:48:29]  =======================================
+[19:48:29]  
+[19:48:29]  
+[19:48:29]  
+[19:48:29] Number of vehicle models: 73
+[19:48:29] Unloaded 34 zones.
+[19:48:29] SvT was unloaded in 26 ms.
+[19:48:29]  
+[19:48:29]  ========================================== 
+[19:48:29]  |                                        | 
+[19:48:29]  |    Generating code, this may take a    | 
+[19:48:29]  |           little bit of time.          | 
+[19:48:29]  |                                        | 
+[19:48:29]  |             Please wait...             | 
+[19:48:29]  |                                        | 
+[19:48:29]  | You can disable this message with:     | 
+[19:48:29]  |                                        | 
+[19:48:29]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[19:48:29]  |                                        | 
+[19:48:29]  ========================================== 
+[19:48:29]  |                                        | 
+[19:48:29]  | Note that this code generation works   | 
+[19:48:29]  | best with the JIT plugin, which you    | 
+[19:48:29]  | are not currently using.  Get it here: | 
+[19:48:29]  |                                        | 
+[19:48:29]  |        https://git.io/jit-plugin       | 
+[19:48:29]  |                                        | 
+[19:48:29]  ========================================== 
+[19:48:29]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:03:23] 
+[10:03:23] Server Plugins
+[10:03:23] --------------
+[10:03:23]  Loading plugin: crashdetect.so
+[10:03:23]   CrashDetect plugin 4.19.4
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: sscanf.so
+[10:03:23] 
+
+[10:03:23]  ===============================
+
+[10:03:23]       sscanf plugin loaded.     
+
+[10:03:23]          Version:  2.8.3        
+
+[10:03:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:03:23]  ===============================
+
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: mysql.so
+[10:03:23]  >> plugin.mysql: R41-4 successfully loaded.
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: streamer.so
+[10:03:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: bcrypt-samp.so
+[10:03:23]   plugin.bcrypt v2.2.4 was loaded.
+[10:03:23]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: SKY.so
+[10:03:23] 
+[10:03:23]  ===============================
+[10:03:23]    
+[10:03:23]    < SKY - 2.2.2 >
+[10:03:23]    
+[10:03:23]    (c) 2008 - Present | YSF Maintainers
+[10:03:23]    (c) 2015 | Oscar "Slice" Broman
+[10:03:23]    
+[10:03:23]    Server Version: 0.3.7 R2
+[10:03:23]    Operating System: Linux
+[10:03:23]    Built on: Jan 20 2020 at 22:20:49
+[10:03:23]    
+[10:03:23]  ===============================
+[10:03:23] 
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: pawncmd.so
+[10:03:23] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: pawnraknet.so
+[10:03:23] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: pawnregex.so
+[10:03:23] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:03:23]   Loaded.
+[10:03:23]  Loading plugin: ColAndreas_static.so
+[10:03:23] *********************
+[10:03:23] ** Created By:     **
+[10:03:23] ** [uL]Chris42O    **
+[10:03:23] ** [uL]Slice       **
+[10:03:23] ** [uL]Pottus      **
+[10:03:23] *********************
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:04:52] 
+[10:04:52] Server Plugins
+[10:04:52] --------------
+[10:04:52]  Loading plugin: crashdetect.so
+[10:04:52]   CrashDetect plugin 4.19.4
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: sscanf.so
+[10:04:52] 
+
+[10:04:52]  ===============================
+
+[10:04:52]       sscanf plugin loaded.     
+
+[10:04:52]          Version:  2.8.3        
+
+[10:04:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:04:52]  ===============================
+
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: mysql.so
+[10:04:52]  >> plugin.mysql: R41-4 successfully loaded.
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: streamer.so
+[10:04:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: bcrypt-samp.so
+[10:04:52]   plugin.bcrypt v2.2.4 was loaded.
+[10:04:52]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: SKY.so
+[10:04:52] 
+[10:04:52]  ===============================
+[10:04:52]    
+[10:04:52]    < SKY - 2.2.2 >
+[10:04:52]    
+[10:04:52]    (c) 2008 - Present | YSF Maintainers
+[10:04:52]    (c) 2015 | Oscar "Slice" Broman
+[10:04:52]    
+[10:04:52]    Server Version: 0.3.7 R2
+[10:04:52]    Operating System: Linux
+[10:04:52]    Built on: Jan 20 2020 at 22:20:49
+[10:04:52]    
+[10:04:52]  ===============================
+[10:04:52] 
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: pawncmd.so
+[10:04:52] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: pawnraknet.so
+[10:04:52] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: pawnregex.so
+[10:04:52] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:04:52]   Loaded.
+[10:04:52]  Loading plugin: ColAndreas_static.so
+[10:04:52] *********************
+[10:04:52] ** Created By:     **
+[10:04:52] ** [uL]Chris42O    **
+[10:04:52] ** [uL]Slice       **
+[10:04:52] ** [uL]Pottus      **
+[10:04:52] *********************
+[10:05:25] Loaded collision data.
+[10:05:25] *********************
+[10:05:25]   ColAndreas Loaded
+[10:05:25]    v1.4.0
+[10:05:25] *********************
+[10:05:25]   Loaded.
+[10:05:25]  Loaded 10 plugins.
+
+[10:05:25] 
+[10:05:25] Filterscripts
+[10:05:25] ---------------
+[10:05:25]   Loaded 0 filterscripts.
+
+[10:05:25]  
+[10:05:25]  ========================================== 
+[10:05:25]  |                                        | 
+[10:05:25]  |    Generating code, this may take a    | 
+[10:05:25]  |           little bit of time.          | 
+[10:05:25]  |                                        | 
+[10:05:25]  |             Please wait...             | 
+[10:05:25]  |                                        | 
+[10:05:25]  | You can disable this message with:     | 
+[10:05:25]  |                                        | 
+[10:05:25]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:05:25]  |                                        | 
+[10:05:25]  ========================================== 
+[10:05:25]  |                                        | 
+[10:05:25]  | Note that this code generation works   | 
+[10:05:25]  | best with the JIT plugin, which you    | 
+[10:05:25]  | are not currently using.  Get it here: | 
+[10:05:25]  |                                        | 
+[10:05:25]  |        https://git.io/jit-plugin       | 
+[10:05:25]  |                                        | 
+[10:05:25]  ========================================== 
+[10:05:25]  
+[10:06:14]  
+[10:06:14]  ========================================== 
+[10:06:14]  |                                        | 
+[10:06:14]  |   File dumped to YSI code cache:       | 
+[10:06:14]  |                                        | 
+[10:06:14]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:06:14]  |                                        | 
+[10:06:14]  | Load this file instead to skip this    | 
+[10:06:14]  | code optimisation step in the future.  | 
+[10:06:14]  | Note that if you have multiple scripts | 
+[10:06:14]  | loading at once (i.e. gamemodes,       | 
+[10:06:14]  | filterscripts, and modules) you may    | 
+[10:06:14]  | need to load and cache them            | 
+[10:06:14]  | individually so that they don't        | 
+[10:06:14]  | clobber each other.  If you don't, in  | 
+[10:06:14]  | "server.cfg", the following works:     | 
+[10:06:14]  |                                        | 
+[10:06:14]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:06:14]  |                                        | 
+[10:06:14]  | You can disable this message with:     | 
+[10:06:14]  |                                        | 
+[10:06:14]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:06:14]  |                                        | 
+[10:06:14]  | You can disable this caching with:     | 
+[10:06:14]  |                                        | 
+[10:06:14]  |   #define YSI_NO_MODE_CACHE            | 
+[10:06:14]  |                                        | 
+[10:06:14]  | You can explicitly enable it with:     | 
+[10:06:14]  |                                        | 
+[10:06:14]  |   #define YSI_YES_MODE_CACHE           | 
+[10:06:14]  |                                        | 
+[10:06:14]  ========================================== 
+[10:06:14]  
+[10:06:14]  
+[10:06:14]  
+[10:06:14]  
+[10:06:14]  ========================================== 
+[10:06:14]  |                                        | 
+[10:06:14]  |         YSI version 5.03.0689          | 
+[10:06:14]  |         By Alex "Y_Less" Cole          | 
+[10:06:14]  |                                        | 
+[10:06:14]  | You can disable this message with:     | 
+[10:06:14]  |                                        | 
+[10:06:14]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:06:14]  |                                        | 
+[10:06:14]  ========================================== 
+[10:06:14]  
+[10:06:14] 
+  * iAchieve :: Advanced Achievement System by iPLEOMAX, 2011 *
+
+[10:06:14] Loaded 34 zones.
+[10:06:14] MySQL Connection Successful
+[10:06:14] Loaded 4 anti air vehicles.
+[10:06:14] Loaded 12 submarines.
+[10:06:14] Server was initialized in 73 ms!
+[10:06:14] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[10:06:14]  
+[10:06:14] -> Loading SWAT vs Terrorists v0.0.1
+[10:06:14]  
+[10:06:14] Number of vehicle models: 75
+[12:19:17] [connection] incoming connection: 10.42.0.69:52478 id: 0
+[12:19:18] [join] H2O has joined the server (0:10.42.0.69)
+[12:19:33] [part] H2O has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:59:49] 
+[09:59:49] Server Plugins
+[09:59:49] --------------
+[09:59:49]  Loading plugin: crashdetect.so
+[09:59:49]   CrashDetect plugin 4.19.4
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: sscanf.so
+[09:59:49] 
+
+[09:59:49]  ===============================
+
+[09:59:49]       sscanf plugin loaded.     
+
+[09:59:49]          Version:  2.8.3        
+
+[09:59:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:59:49]  ===============================
+
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: mysql.so
+[09:59:49]  >> plugin.mysql: R41-4 successfully loaded.
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: streamer.so
+[09:59:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: bcrypt-samp.so
+[09:59:49]   plugin.bcrypt v2.2.4 was loaded.
+[09:59:49]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: SKY.so
+[09:59:49] 
+[09:59:49]  ===============================
+[09:59:49]    
+[09:59:49]    < SKY - 2.2.2 >
+[09:59:49]    
+[09:59:49]    (c) 2008 - Present | YSF Maintainers
+[09:59:49]    (c) 2015 | Oscar "Slice" Broman
+[09:59:49]    
+[09:59:49]    Server Version: 0.3.7 R2
+[09:59:49]    Operating System: Linux
+[09:59:49]    Built on: Jan 20 2020 at 22:20:49
+[09:59:49]    
+[09:59:49]  ===============================
+[09:59:49] 
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: pawncmd.so
+[09:59:49] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: pawnraknet.so
+[09:59:49] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: pawnregex.so
+[09:59:49] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[09:59:49]   Loaded.
+[09:59:49]  Loading plugin: ColAndreas_static.so
+[09:59:49] *********************
+[09:59:49] ** Created By:     **
+[09:59:49] ** [uL]Chris42O    **
+[09:59:49] ** [uL]Slice       **
+[09:59:49] ** [uL]Pottus      **
+[09:59:49] *********************
+[10:00:17] Loaded collision data.
+[10:00:17] *********************
+[10:00:17]   ColAndreas Loaded
+[10:00:17]    v1.4.0
+[10:00:17] *********************
+[10:00:17]   Loaded.
+[10:00:17]  Loaded 10 plugins.
+
+[10:00:17] 
+[10:00:17] Filterscripts
+[10:00:17] ---------------
+[10:00:17]   Loaded 0 filterscripts.
+
+[10:00:17]  
+[10:00:17]  ========================================== 
+[10:00:17]  |                                        | 
+[10:00:17]  |    Generating code, this may take a    | 
+[10:00:17]  |           little bit of time.          | 
+[10:00:17]  |                                        | 
+[10:00:17]  |             Please wait...             | 
+[10:00:17]  |                                        | 
+[10:00:17]  | You can disable this message with:     | 
+[10:00:17]  |                                        | 
+[10:00:17]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:00:17]  |                                        | 
+[10:00:17]  ========================================== 
+[10:00:17]  |                                        | 
+[10:00:17]  | Note that this code generation works   | 
+[10:00:17]  | best with the JIT plugin, which you    | 
+[10:00:17]  | are not currently using.  Get it here: | 
+[10:00:17]  |                                        | 
+[10:00:17]  |        https://git.io/jit-plugin       | 
+[10:00:17]  |                                        | 
+[10:00:17]  ========================================== 
+[10:00:17]  
+[10:00:56]  
+[10:00:56]  ========================================== 
+[10:00:56]  |                                        | 
+[10:00:56]  |   File dumped to YSI code cache:       | 
+[10:00:56]  |                                        | 
+[10:00:56]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:00:56]  |                                        | 
+[10:00:56]  | Load this file instead to skip this    | 
+[10:00:56]  | code optimisation step in the future.  | 
+[10:00:56]  | Note that if you have multiple scripts | 
+[10:00:56]  | loading at once (i.e. gamemodes,       | 
+[10:00:56]  | filterscripts, and modules) you may    | 
+[10:00:56]  | need to load and cache them            | 
+[10:00:56]  | individually so that they don't        | 
+[10:00:56]  | clobber each other.  If you don't, in  | 
+[10:00:56]  | "server.cfg", the following works:     | 
+[10:00:56]  |                                        | 
+[10:00:56]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:00:56]  |                                        | 
+[10:00:56]  | You can disable this message with:     | 
+[10:00:56]  |                                        | 
+[10:00:56]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:00:56]  |                                        | 
+[10:00:56]  | You can disable this caching with:     | 
+[10:00:56]  |                                        | 
+[10:00:56]  |   #define YSI_NO_MODE_CACHE            | 
+[10:00:56]  |                                        | 
+[10:00:56]  | You can explicitly enable it with:     | 
+[10:00:56]  |                                        | 
+[10:00:56]  |   #define YSI_YES_MODE_CACHE           | 
+[10:00:56]  |                                        | 
+[10:00:56]  ========================================== 
+[10:00:56]  
+[10:00:56]  
+[10:00:56]  
+[10:00:56]  
+[10:00:56]  ========================================== 
+[10:00:56]  |                                        | 
+[10:00:56]  |         YSI version 5.03.0689          | 
+[10:00:56]  |         By Alex "Y_Less" Cole          | 
+[10:00:56]  |                                        | 
+[10:00:56]  | You can disable this message with:     | 
+[10:00:56]  |                                        | 
+[10:00:56]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:00:56]  |                                        | 
+[10:00:56]  ========================================== 
+[10:00:56]  
+[10:00:56] Invalid MySQL server... Restarting.
+[10:00:56]  
+[10:00:56] -> Loading SWAT vs Terrorists v0.0.1
+[10:00:56]  
+[10:00:56] Number of vehicle models: 73
+[10:00:56] Unloaded 34 zones.
+[10:00:56] SvT was unloaded in 9 ms.
+[10:01:08]  
+[10:01:08]  ========================================== 
+[10:01:08]  |                                        | 
+[10:01:08]  |    Generating code, this may take a    | 
+[10:01:08]  |           little bit of time.          | 
+[10:01:08]  |                                        | 
+[10:01:08]  |             Please wait...             | 
+[10:01:08]  |                                        | 
+[10:01:08]  | You can disable this message with:     | 
+[10:01:08]  |                                        | 
+[10:01:08]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:01:08]  |                                        | 
+[10:01:08]  ========================================== 
+[10:01:08]  |                                        | 
+[10:01:08]  | Note that this code generation works   | 
+[10:01:08]  | best with the JIT plugin, which you    | 
+[10:01:08]  | are not currently using.  Get it here: | 
+[10:01:08]  |                                        | 
+[10:01:08]  |        https://git.io/jit-plugin       | 
+[10:01:08]  |                                        | 
+[10:01:08]  ========================================== 
+[10:01:08]  
+[10:01:44]  
+[10:01:44]  ========================================== 
+[10:01:44]  |                                        | 
+[10:01:44]  |   File dumped to YSI code cache:       | 
+[10:01:44]  |                                        | 
+[10:01:44]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:01:44]  |                                        | 
+[10:01:44]  | Load this file instead to skip this    | 
+[10:01:44]  | code optimisation step in the future.  | 
+[10:01:44]  | Note that if you have multiple scripts | 
+[10:01:44]  | loading at once (i.e. gamemodes,       | 
+[10:01:44]  | filterscripts, and modules) you may    | 
+[10:01:44]  | need to load and cache them            | 
+[10:01:44]  | individually so that they don't        | 
+[10:01:44]  | clobber each other.  If you don't, in  | 
+[10:01:44]  | "server.cfg", the following works:     | 
+[10:01:44]  |                                        | 
+[10:01:44]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:01:44]  |                                        | 
+[10:01:44]  | You can disable this message with:     | 
+[10:01:44]  |                                        | 
+[10:01:44]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:01:44]  |                                        | 
+[10:01:44]  | You can disable this caching with:     | 
+[10:01:44]  |                                        | 
+[10:01:44]  |   #define YSI_NO_MODE_CACHE            | 
+[10:01:44]  |                                        | 
+[10:01:44]  | You can explicitly enable it with:     | 
+[10:01:44]  |                                        | 
+[10:01:44]  |   #define YSI_YES_MODE_CACHE           | 
+[10:01:44]  |                                        | 
+[10:01:44]  ========================================== 
+[10:01:44]  
+[10:01:44]  
+[10:01:44]  
+[10:01:44]  
+[10:01:44]  ========================================== 
+[10:01:44]  |                                        | 
+[10:01:44]  |         YSI version 5.03.0689          | 
+[10:01:44]  |         By Alex "Y_Less" Cole          | 
+[10:01:44]  |                                        | 
+[10:01:44]  | You can disable this message with:     | 
+[10:01:44]  |                                        | 
+[10:01:44]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:01:44]  |                                        | 
+[10:01:44]  ========================================== 
+[10:01:44]  
+[10:01:44] Invalid MySQL server... Restarting.
+[10:01:44]  
+[10:01:44] -> Loading SWAT vs Terrorists v0.0.1
+[10:01:44]  
+[10:01:44] Number of vehicle models: 73
+[10:01:44] Unloaded 34 zones.
+[10:01:45] SvT was unloaded in 12 ms.
+[10:01:45]  
+[10:01:45]  ========================================== 
+[10:01:45]  |                                        | 
+[10:01:45]  |    Generating code, this may take a    | 
+[10:01:45]  |           little bit of time.          | 
+[10:01:45]  |                                        | 
+[10:01:45]  |             Please wait...             | 
+[10:01:45]  |                                        | 
+[10:01:45]  | You can disable this message with:     | 
+[10:01:45]  |                                        | 
+[10:01:45]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:01:45]  |                                        | 
+[10:01:45]  ========================================== 
+[10:01:45]  |                                        | 
+[10:01:45]  | Note that this code generation works   | 
+[10:01:45]  | best with the JIT plugin, which you    | 
+[10:01:45]  | are not currently using.  Get it here: | 
+[10:01:45]  |                                        | 
+[10:01:45]  |        https://git.io/jit-plugin       | 
+[10:01:45]  |                                        | 
+[10:01:45]  ========================================== 
+[10:01:45]  
+[10:02:21]  
+[10:02:21]  ========================================== 
+[10:02:21]  |                                        | 
+[10:02:21]  |   File dumped to YSI code cache:       | 
+[10:02:21]  |                                        | 
+[10:02:21]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:02:21]  |                                        | 
+[10:02:21]  | Load this file instead to skip this    | 
+[10:02:21]  | code optimisation step in the future.  | 
+[10:02:21]  | Note that if you have multiple scripts | 
+[10:02:21]  | loading at once (i.e. gamemodes,       | 
+[10:02:21]  | filterscripts, and modules) you may    | 
+[10:02:21]  | need to load and cache them            | 
+[10:02:21]  | individually so that they don't        | 
+[10:02:21]  | clobber each other.  If you don't, in  | 
+[10:02:21]  | "server.cfg", the following works:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:02:21]  |                                        | 
+[10:02:21]  | You can disable this message with:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:02:21]  |                                        | 
+[10:02:21]  | You can disable this caching with:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   #define YSI_NO_MODE_CACHE            | 
+[10:02:21]  |                                        | 
+[10:02:21]  | You can explicitly enable it with:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   #define YSI_YES_MODE_CACHE           | 
+[10:02:21]  |                                        | 
+[10:02:21]  ========================================== 
+[10:02:21]  
+[10:02:21]  
+[10:02:21]  
+[10:02:21]  
+[10:02:21]  ========================================== 
+[10:02:21]  |                                        | 
+[10:02:21]  |         YSI version 5.03.0689          | 
+[10:02:21]  |         By Alex "Y_Less" Cole          | 
+[10:02:21]  |                                        | 
+[10:02:21]  | You can disable this message with:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:02:21]  |                                        | 
+[10:02:21]  ========================================== 
+[10:02:21]  
+[10:02:21] Invalid MySQL server... Restarting.
+[10:02:21]  
+[10:02:21] -> Loading SWAT vs Terrorists v0.0.1
+[10:02:21]  
+[10:02:21] Number of vehicle models: 73
+[10:02:21] Unloaded 34 zones.
+[10:02:21] SvT was unloaded in 9 ms.
+[10:02:21]  
+[10:02:21]  ========================================== 
+[10:02:21]  |                                        | 
+[10:02:21]  |    Generating code, this may take a    | 
+[10:02:21]  |           little bit of time.          | 
+[10:02:21]  |                                        | 
+[10:02:21]  |             Please wait...             | 
+[10:02:21]  |                                        | 
+[10:02:21]  | You can disable this message with:     | 
+[10:02:21]  |                                        | 
+[10:02:21]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:02:21]  |                                        | 
+[10:02:21]  ========================================== 
+[10:02:21]  |                                        | 
+[10:02:21]  | Note that this code generation works   | 
+[10:02:21]  | best with the JIT plugin, which you    | 
+[10:02:21]  | are not currently using.  Get it here: | 
+[10:02:21]  |                                        | 
+[10:02:21]  |        https://git.io/jit-plugin       | 
+[10:02:21]  |                                        | 
+[10:02:21]  ========================================== 
+[10:02:21]  
+[10:02:55]  
+[10:02:55]  ========================================== 
+[10:02:55]  |                                        | 
+[10:02:55]  |   File dumped to YSI code cache:       | 
+[10:02:55]  |                                        | 
+[10:02:55]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:02:55]  |                                        | 
+[10:02:55]  | Load this file instead to skip this    | 
+[10:02:55]  | code optimisation step in the future.  | 
+[10:02:55]  | Note that if you have multiple scripts | 
+[10:02:55]  | loading at once (i.e. gamemodes,       | 
+[10:02:55]  | filterscripts, and modules) you may    | 
+[10:02:55]  | need to load and cache them            | 
+[10:02:55]  | individually so that they don't        | 
+[10:02:55]  | clobber each other.  If you don't, in  | 
+[10:02:55]  | "server.cfg", the following works:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:02:55]  |                                        | 
+[10:02:55]  | You can disable this message with:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:02:55]  |                                        | 
+[10:02:55]  | You can disable this caching with:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   #define YSI_NO_MODE_CACHE            | 
+[10:02:55]  |                                        | 
+[10:02:55]  | You can explicitly enable it with:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   #define YSI_YES_MODE_CACHE           | 
+[10:02:55]  |                                        | 
+[10:02:55]  ========================================== 
+[10:02:55]  
+[10:02:55]  
+[10:02:55]  
+[10:02:55]  
+[10:02:55]  ========================================== 
+[10:02:55]  |                                        | 
+[10:02:55]  |         YSI version 5.03.0689          | 
+[10:02:55]  |         By Alex "Y_Less" Cole          | 
+[10:02:55]  |                                        | 
+[10:02:55]  | You can disable this message with:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:02:55]  |                                        | 
+[10:02:55]  ========================================== 
+[10:02:55]  
+[10:02:55] Invalid MySQL server... Restarting.
+[10:02:55]  
+[10:02:55] -> Loading SWAT vs Terrorists v0.0.1
+[10:02:55]  
+[10:02:55] Number of vehicle models: 73
+[10:02:55] Unloaded 34 zones.
+[10:02:55] SvT was unloaded in 9 ms.
+[10:02:55]  
+[10:02:55]  ========================================== 
+[10:02:55]  |                                        | 
+[10:02:55]  |    Generating code, this may take a    | 
+[10:02:55]  |           little bit of time.          | 
+[10:02:55]  |                                        | 
+[10:02:55]  |             Please wait...             | 
+[10:02:55]  |                                        | 
+[10:02:55]  | You can disable this message with:     | 
+[10:02:55]  |                                        | 
+[10:02:55]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:02:55]  |                                        | 
+[10:02:55]  ========================================== 
+[10:02:55]  |                                        | 
+[10:02:55]  | Note that this code generation works   | 
+[10:02:55]  | best with the JIT plugin, which you    | 
+[10:02:55]  | are not currently using.  Get it here: | 
+[10:02:55]  |                                        | 
+[10:02:55]  |        https://git.io/jit-plugin       | 
+[10:02:55]  |                                        | 
+[10:02:55]  ========================================== 
+[10:02:55]  
+[10:03:27]  
+[10:03:27]  ========================================== 
+[10:03:27]  |                                        | 
+[10:03:27]  |   File dumped to YSI code cache:       | 
+[10:03:27]  |                                        | 
+[10:03:27]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:03:27]  |                                        | 
+[10:03:27]  | Load this file instead to skip this    | 
+[10:03:27]  | code optimisation step in the future.  | 
+[10:03:27]  | Note that if you have multiple scripts | 
+[10:03:27]  | loading at once (i.e. gamemodes,       | 
+[10:03:27]  | filterscripts, and modules) you may    | 
+[10:03:27]  | need to load and cache them            | 
+[10:03:27]  | individually so that they don't        | 
+[10:03:27]  | clobber each other.  If you don't, in  | 
+[10:03:27]  | "server.cfg", the following works:     | 
+[10:03:27]  |                                        | 
+[10:03:27]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:03:27]  |                                        | 
+[10:03:27]  | You can disable this message with:     | 
+[10:03:27]  |                                        | 
+[10:03:27]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:03:27]  |                                        | 
+[10:03:27]  | You can disable this caching with:     | 
+[10:03:27]  |                                        | 
+[10:03:27]  |   #define YSI_NO_MODE_CACHE            | 
+[10:03:27]  |                                        | 
+[10:03:27]  | You can explicitly enable it with:     | 
+[10:03:27]  |                                        | 
+[10:03:27]  |   #define YSI_YES_MODE_CACHE           | 
+[10:03:27]  |                                        | 
+[10:03:27]  ========================================== 
+[10:03:27]  
+[10:03:27]  
+[10:03:27]  
+[10:03:27]  
+[10:03:27]  ========================================== 
+[10:03:27]  |                                        | 
+[10:03:27]  |         YSI version 5.03.0689          | 
+[10:03:27]  |         By Alex "Y_Less" Cole          | 
+[10:03:27]  |                                        | 
+[10:03:27]  | You can disable this message with:     | 
+[10:03:27]  |                                        | 
+[10:03:27]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:03:27]  |                                        | 
+[10:03:27]  ========================================== 
+[10:03:27]  
+[10:03:28] Invalid MySQL server... Restarting.
+[10:03:28]  
+[10:03:28] -> Loading SWAT vs Terrorists v0.0.1
+[10:03:28]  
+[10:03:28] Number of vehicle models: 73
+[10:03:28] Unloaded 34 zones.
+[10:03:28] SvT was unloaded in 7 ms.
+[10:03:28]  
+[10:03:28]  ========================================== 
+[10:03:28]  |                                        | 
+[10:03:28]  |    Generating code, this may take a    | 
+[10:03:28]  |           little bit of time.          | 
+[10:03:28]  |                                        | 
+[10:03:28]  |             Please wait...             | 
+[10:03:28]  |                                        | 
+[10:03:28]  | You can disable this message with:     | 
+[10:03:28]  |                                        | 
+[10:03:28]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:03:28]  |                                        | 
+[10:03:28]  ========================================== 
+[10:03:28]  |                                        | 
+[10:03:28]  | Note that this code generation works   | 
+[10:03:28]  | best with the JIT plugin, which you    | 
+[10:03:28]  | are not currently using.  Get it here: | 
+[10:03:28]  |                                        | 
+[10:03:28]  |        https://git.io/jit-plugin       | 
+[10:03:28]  |                                        | 
+[10:03:28]  ========================================== 
+[10:03:28]  
+[10:04:01]  
+[10:04:01]  ========================================== 
+[10:04:01]  |                                        | 
+[10:04:01]  |   File dumped to YSI code cache:       | 
+[10:04:01]  |                                        | 
+[10:04:01]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:04:01]  |                                        | 
+[10:04:01]  | Load this file instead to skip this    | 
+[10:04:01]  | code optimisation step in the future.  | 
+[10:04:01]  | Note that if you have multiple scripts | 
+[10:04:01]  | loading at once (i.e. gamemodes,       | 
+[10:04:01]  | filterscripts, and modules) you may    | 
+[10:04:01]  | need to load and cache them            | 
+[10:04:01]  | individually so that they don't        | 
+[10:04:01]  | clobber each other.  If you don't, in  | 
+[10:04:01]  | "server.cfg", the following works:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:04:01]  |                                        | 
+[10:04:01]  | You can disable this message with:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:04:01]  |                                        | 
+[10:04:01]  | You can disable this caching with:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   #define YSI_NO_MODE_CACHE            | 
+[10:04:01]  |                                        | 
+[10:04:01]  | You can explicitly enable it with:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   #define YSI_YES_MODE_CACHE           | 
+[10:04:01]  |                                        | 
+[10:04:01]  ========================================== 
+[10:04:01]  
+[10:04:01]  
+[10:04:01]  
+[10:04:01]  
+[10:04:01]  ========================================== 
+[10:04:01]  |                                        | 
+[10:04:01]  |         YSI version 5.03.0689          | 
+[10:04:01]  |         By Alex "Y_Less" Cole          | 
+[10:04:01]  |                                        | 
+[10:04:01]  | You can disable this message with:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:04:01]  |                                        | 
+[10:04:01]  ========================================== 
+[10:04:01]  
+[10:04:01] Invalid MySQL server... Restarting.
+[10:04:01]  
+[10:04:01] -> Loading SWAT vs Terrorists v0.0.1
+[10:04:01]  
+[10:04:01] Number of vehicle models: 73
+[10:04:01] Unloaded 34 zones.
+[10:04:01] SvT was unloaded in 6 ms.
+[10:04:01]  
+[10:04:01]  ========================================== 
+[10:04:01]  |                                        | 
+[10:04:01]  |    Generating code, this may take a    | 
+[10:04:01]  |           little bit of time.          | 
+[10:04:01]  |                                        | 
+[10:04:01]  |             Please wait...             | 
+[10:04:01]  |                                        | 
+[10:04:01]  | You can disable this message with:     | 
+[10:04:01]  |                                        | 
+[10:04:01]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:04:01]  |                                        | 
+[10:04:01]  ========================================== 
+[10:04:01]  |                                        | 
+[10:04:01]  | Note that this code generation works   | 
+[10:04:01]  | best with the JIT plugin, which you    | 
+[10:04:01]  | are not currently using.  Get it here: | 
+[10:04:01]  |                                        | 
+[10:04:01]  |        https://git.io/jit-plugin       | 
+[10:04:01]  |                                        | 
+[10:04:01]  ========================================== 
+[10:04:01]  
+[10:04:33]  
+[10:04:33]  ========================================== 
+[10:04:33]  |                                        | 
+[10:04:33]  |   File dumped to YSI code cache:       | 
+[10:04:33]  |                                        | 
+[10:04:33]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:04:33]  |                                        | 
+[10:04:33]  | Load this file instead to skip this    | 
+[10:04:33]  | code optimisation step in the future.  | 
+[10:04:33]  | Note that if you have multiple scripts | 
+[10:04:33]  | loading at once (i.e. gamemodes,       | 
+[10:04:33]  | filterscripts, and modules) you may    | 
+[10:04:33]  | need to load and cache them            | 
+[10:04:33]  | individually so that they don't        | 
+[10:04:33]  | clobber each other.  If you don't, in  | 
+[10:04:33]  | "server.cfg", the following works:     | 
+[10:04:33]  |                                        | 
+[10:04:33]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:04:33]  |                                        | 
+[10:04:33]  | You can disable this message with:     | 
+[10:04:33]  |                                        | 
+[10:04:33]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:04:33]  |                                        | 
+[10:04:33]  | You can disable this caching with:     | 
+[10:04:33]  |                                        | 
+[10:04:33]  |   #define YSI_NO_MODE_CACHE            | 
+[10:04:33]  |                                        | 
+[10:04:33]  | You can explicitly enable it with:     | 
+[10:04:33]  |                                        | 
+[10:04:33]  |   #define YSI_YES_MODE_CACHE           | 
+[10:04:33]  |                                        | 
+[10:04:33]  ========================================== 
+[10:04:33]  
+[10:04:33]  
+[10:04:33]  
+[10:04:33]  
+[10:04:33]  ========================================== 
+[10:04:33]  |                                        | 
+[10:04:33]  |         YSI version 5.03.0689          | 
+[10:04:33]  |         By Alex "Y_Less" Cole          | 
+[10:04:33]  |                                        | 
+[10:04:33]  | You can disable this message with:     | 
+[10:04:33]  |                                        | 
+[10:04:33]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:04:33]  |                                        | 
+[10:04:33]  ========================================== 
+[10:04:33]  
+[10:04:33] Invalid MySQL server... Restarting.
+[10:04:33]  
+[10:04:33] -> Loading SWAT vs Terrorists v0.0.1
+[10:04:33]  
+[10:04:33] Number of vehicle models: 73
+[10:04:33] Unloaded 34 zones.
+[10:04:33] SvT was unloaded in 6 ms.
+[10:04:34]  
+[10:04:34]  ========================================== 
+[10:04:34]  |                                        | 
+[10:04:34]  |    Generating code, this may take a    | 
+[10:04:34]  |           little bit of time.          | 
+[10:04:34]  |                                        | 
+[10:04:34]  |             Please wait...             | 
+[10:04:34]  |                                        | 
+[10:04:34]  | You can disable this message with:     | 
+[10:04:34]  |                                        | 
+[10:04:34]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:04:34]  |                                        | 
+[10:04:34]  ========================================== 
+[10:04:34]  |                                        | 
+[10:04:34]  | Note that this code generation works   | 
+[10:04:34]  | best with the JIT plugin, which you    | 
+[10:04:34]  | are not currently using.  Get it here: | 
+[10:04:34]  |                                        | 
+[10:04:34]  |        https://git.io/jit-plugin       | 
+[10:04:34]  |                                        | 
+[10:04:34]  ========================================== 
+[10:04:34]  
+[10:05:06]  
+[10:05:06]  ========================================== 
+[10:05:06]  |                                        | 
+[10:05:06]  |   File dumped to YSI code cache:       | 
+[10:05:06]  |                                        | 
+[10:05:06]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:05:06]  |                                        | 
+[10:05:06]  | Load this file instead to skip this    | 
+[10:05:06]  | code optimisation step in the future.  | 
+[10:05:06]  | Note that if you have multiple scripts | 
+[10:05:06]  | loading at once (i.e. gamemodes,       | 
+[10:05:06]  | filterscripts, and modules) you may    | 
+[10:05:06]  | need to load and cache them            | 
+[10:05:06]  | individually so that they don't        | 
+[10:05:06]  | clobber each other.  If you don't, in  | 
+[10:05:06]  | "server.cfg", the following works:     | 
+[10:05:06]  |                                        | 
+[10:05:06]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:05:06]  |                                        | 
+[10:05:06]  | You can disable this message with:     | 
+[10:05:06]  |                                        | 
+[10:05:06]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:05:06]  |                                        | 
+[10:05:06]  | You can disable this caching with:     | 
+[10:05:06]  |                                        | 
+[10:05:06]  |   #define YSI_NO_MODE_CACHE            | 
+[10:05:06]  |                                        | 
+[10:05:06]  | You can explicitly enable it with:     | 
+[10:05:06]  |                                        | 
+[10:05:06]  |   #define YSI_YES_MODE_CACHE           | 
+[10:05:06]  |                                        | 
+[10:05:06]  ========================================== 
+[10:05:06]  
+[10:05:06]  
+[10:05:06]  
+[10:05:06]  
+[10:05:06]  ========================================== 
+[10:05:06]  |                                        | 
+[10:05:06]  |         YSI version 5.03.0689          | 
+[10:05:06]  |         By Alex "Y_Less" Cole          | 
+[10:05:06]  |                                        | 
+[10:05:06]  | You can disable this message with:     | 
+[10:05:06]  |                                        | 
+[10:05:06]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:05:06]  |                                        | 
+[10:05:06]  ========================================== 
+[10:05:06]  
+[10:05:07] Invalid MySQL server... Restarting.
+[10:05:07]  
+[10:05:07] -> Loading SWAT vs Terrorists v0.0.1
+[10:05:07]  
+[10:05:07] Number of vehicle models: 73
+[10:05:07] Unloaded 34 zones.
+[10:05:07] SvT was unloaded in 11 ms.
+[10:05:07]  
+[10:05:07]  ========================================== 
+[10:05:07]  |                                        | 
+[10:05:07]  |    Generating code, this may take a    | 
+[10:05:07]  |           little bit of time.          | 
+[10:05:07]  |                                        | 
+[10:05:07]  |             Please wait...             | 
+[10:05:07]  |                                        | 
+[10:05:07]  | You can disable this message with:     | 
+[10:05:07]  |                                        | 
+[10:05:07]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:05:07]  |                                        | 
+[10:05:07]  ========================================== 
+[10:05:07]  |                                        | 
+[10:05:07]  | Note that this code generation works   | 
+[10:05:07]  | best with the JIT plugin, which you    | 
+[10:05:07]  | are not currently using.  Get it here: | 
+[10:05:07]  |                                        | 
+[10:05:07]  |        https://git.io/jit-plugin       | 
+[10:05:07]  |                                        | 
+[10:05:07]  ========================================== 
+[10:05:07]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:57] 
+[10:06:57] Server Plugins
+[10:06:57] --------------
+[10:06:57]  Loading plugin: crashdetect.so
+[10:06:57]   CrashDetect plugin 4.19.4
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: sscanf.so
+[10:06:57] 
+
+[10:06:57]  ===============================
+
+[10:06:57]       sscanf plugin loaded.     
+
+[10:06:57]          Version:  2.8.3        
+
+[10:06:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:57]  ===============================
+
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: mysql.so
+[10:06:57]  >> plugin.mysql: R41-4 successfully loaded.
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: streamer.so
+[10:06:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: bcrypt-samp.so
+[10:06:57]   plugin.bcrypt v2.2.4 was loaded.
+[10:06:57]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: SKY.so
+[10:06:57] 
+[10:06:57]  ===============================
+[10:06:57]    
+[10:06:57]    < SKY - 2.2.2 >
+[10:06:57]    
+[10:06:57]    (c) 2008 - Present | YSF Maintainers
+[10:06:57]    (c) 2015 | Oscar "Slice" Broman
+[10:06:57]    
+[10:06:57]    Server Version: 0.3.7 R2
+[10:06:57]    Operating System: Linux
+[10:06:57]    Built on: Jan 20 2020 at 22:20:49
+[10:06:57]    
+[10:06:57]  ===============================
+[10:06:57] 
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: pawncmd.so
+[10:06:57] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: pawnraknet.so
+[10:06:57] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: pawnregex.so
+[10:06:57] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:06:57]   Loaded.
+[10:06:57]  Loading plugin: ColAndreas_static.so
+[10:06:57] *********************
+[10:06:57] ** Created By:     **
+[10:06:57] ** [uL]Chris42O    **
+[10:06:57] ** [uL]Slice       **
+[10:06:57] ** [uL]Pottus      **
+[10:06:57] *********************
+[10:07:22] Loaded collision data.
+[10:07:22] *********************
+[10:07:22]   ColAndreas Loaded
+[10:07:22]    v1.4.0
+[10:07:22] *********************
+[10:07:22]   Loaded.
+[10:07:22]  Loaded 10 plugins.
+
+[10:07:22] 
+[10:07:22] Filterscripts
+[10:07:22] ---------------
+[10:07:22]   Loaded 0 filterscripts.
+
+[10:07:23]  
+[10:07:23]  ========================================== 
+[10:07:23]  |                                        | 
+[10:07:23]  |    Generating code, this may take a    | 
+[10:07:23]  |           little bit of time.          | 
+[10:07:23]  |                                        | 
+[10:07:23]  |             Please wait...             | 
+[10:07:23]  |                                        | 
+[10:07:23]  | You can disable this message with:     | 
+[10:07:23]  |                                        | 
+[10:07:23]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:07:23]  |                                        | 
+[10:07:23]  ========================================== 
+[10:07:23]  |                                        | 
+[10:07:23]  | Note that this code generation works   | 
+[10:07:23]  | best with the JIT plugin, which you    | 
+[10:07:23]  | are not currently using.  Get it here: | 
+[10:07:23]  |                                        | 
+[10:07:23]  |        https://git.io/jit-plugin       | 
+[10:07:23]  |                                        | 
+[10:07:23]  ========================================== 
+[10:07:23]  
+[10:07:59]  
+[10:07:59]  ========================================== 
+[10:07:59]  |                                        | 
+[10:07:59]  |   File dumped to YSI code cache:       | 
+[10:07:59]  |                                        | 
+[10:07:59]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:07:59]  |                                        | 
+[10:07:59]  | Load this file instead to skip this    | 
+[10:07:59]  | code optimisation step in the future.  | 
+[10:07:59]  | Note that if you have multiple scripts | 
+[10:07:59]  | loading at once (i.e. gamemodes,       | 
+[10:07:59]  | filterscripts, and modules) you may    | 
+[10:07:59]  | need to load and cache them            | 
+[10:07:59]  | individually so that they don't        | 
+[10:07:59]  | clobber each other.  If you don't, in  | 
+[10:07:59]  | "server.cfg", the following works:     | 
+[10:07:59]  |                                        | 
+[10:07:59]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:07:59]  |                                        | 
+[10:07:59]  | You can disable this message with:     | 
+[10:07:59]  |                                        | 
+[10:07:59]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:07:59]  |                                        | 
+[10:07:59]  | You can disable this caching with:     | 
+[10:07:59]  |                                        | 
+[10:07:59]  |   #define YSI_NO_MODE_CACHE            | 
+[10:07:59]  |                                        | 
+[10:07:59]  | You can explicitly enable it with:     | 
+[10:07:59]  |                                        | 
+[10:07:59]  |   #define YSI_YES_MODE_CACHE           | 
+[10:07:59]  |                                        | 
+[10:07:59]  ========================================== 
+[10:07:59]  
+[10:07:59]  
+[10:07:59]  
+[10:07:59]  
+[10:07:59]  ========================================== 
+[10:07:59]  |                                        | 
+[10:07:59]  |         YSI version 5.03.0689          | 
+[10:07:59]  |         By Alex "Y_Less" Cole          | 
+[10:07:59]  |                                        | 
+[10:07:59]  | You can disable this message with:     | 
+[10:07:59]  |                                        | 
+[10:07:59]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:07:59]  |                                        | 
+[10:07:59]  ========================================== 
+[10:07:59]  
+[10:07:59] Invalid MySQL server... Restarting.
+[10:07:59]  
+[10:07:59] -> Loading SWAT vs Terrorists v0.0.1
+[10:07:59]  
+[10:07:59] Number of vehicle models: 73
+[10:07:59] Unloaded 34 zones.
+[10:07:59] SvT was unloaded in 13 ms.
+[10:08:12]  
+[10:08:12]  ========================================== 
+[10:08:12]  |                                        | 
+[10:08:12]  |    Generating code, this may take a    | 
+[10:08:12]  |           little bit of time.          | 
+[10:08:12]  |                                        | 
+[10:08:12]  |             Please wait...             | 
+[10:08:12]  |                                        | 
+[10:08:12]  | You can disable this message with:     | 
+[10:08:12]  |                                        | 
+[10:08:12]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:08:12]  |                                        | 
+[10:08:12]  ========================================== 
+[10:08:12]  |                                        | 
+[10:08:12]  | Note that this code generation works   | 
+[10:08:12]  | best with the JIT plugin, which you    | 
+[10:08:12]  | are not currently using.  Get it here: | 
+[10:08:12]  |                                        | 
+[10:08:12]  |        https://git.io/jit-plugin       | 
+[10:08:12]  |                                        | 
+[10:08:12]  ========================================== 
+[10:08:12]  
+[10:08:46]  
+[10:08:46]  ========================================== 
+[10:08:46]  |                                        | 
+[10:08:46]  |   File dumped to YSI code cache:       | 
+[10:08:46]  |                                        | 
+[10:08:46]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:08:46]  |                                        | 
+[10:08:46]  | Load this file instead to skip this    | 
+[10:08:46]  | code optimisation step in the future.  | 
+[10:08:46]  | Note that if you have multiple scripts | 
+[10:08:46]  | loading at once (i.e. gamemodes,       | 
+[10:08:46]  | filterscripts, and modules) you may    | 
+[10:08:46]  | need to load and cache them            | 
+[10:08:46]  | individually so that they don't        | 
+[10:08:46]  | clobber each other.  If you don't, in  | 
+[10:08:46]  | "server.cfg", the following works:     | 
+[10:08:46]  |                                        | 
+[10:08:46]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:08:46]  |                                        | 
+[10:08:46]  | You can disable this message with:     | 
+[10:08:46]  |                                        | 
+[10:08:46]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:08:46]  |                                        | 
+[10:08:46]  | You can disable this caching with:     | 
+[10:08:46]  |                                        | 
+[10:08:46]  |   #define YSI_NO_MODE_CACHE            | 
+[10:08:46]  |                                        | 
+[10:08:46]  | You can explicitly enable it with:     | 
+[10:08:46]  |                                        | 
+[10:08:46]  |   #define YSI_YES_MODE_CACHE           | 
+[10:08:46]  |                                        | 
+[10:08:46]  ========================================== 
+[10:08:46]  
+[10:08:46]  
+[10:08:46]  
+[10:08:46]  
+[10:08:46]  ========================================== 
+[10:08:46]  |                                        | 
+[10:08:46]  |         YSI version 5.03.0689          | 
+[10:08:46]  |         By Alex "Y_Less" Cole          | 
+[10:08:46]  |                                        | 
+[10:08:46]  | You can disable this message with:     | 
+[10:08:46]  |                                        | 
+[10:08:46]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:08:46]  |                                        | 
+[10:08:46]  ========================================== 
+[10:08:46]  
+[10:08:46] Invalid MySQL server... Restarting.
+[10:08:46]  
+[10:08:46] -> Loading SWAT vs Terrorists v0.0.1
+[10:08:46]  
+[10:08:46] Number of vehicle models: 73
+[10:08:46] Unloaded 34 zones.
+[10:08:46] SvT was unloaded in 8 ms.
+[10:08:47]  
+[10:08:47]  ========================================== 
+[10:08:47]  |                                        | 
+[10:08:47]  |    Generating code, this may take a    | 
+[10:08:47]  |           little bit of time.          | 
+[10:08:47]  |                                        | 
+[10:08:47]  |             Please wait...             | 
+[10:08:47]  |                                        | 
+[10:08:47]  | You can disable this message with:     | 
+[10:08:47]  |                                        | 
+[10:08:47]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:08:47]  |                                        | 
+[10:08:47]  ========================================== 
+[10:08:47]  |                                        | 
+[10:08:47]  | Note that this code generation works   | 
+[10:08:47]  | best with the JIT plugin, which you    | 
+[10:08:47]  | are not currently using.  Get it here: | 
+[10:08:47]  |                                        | 
+[10:08:47]  |        https://git.io/jit-plugin       | 
+[10:08:47]  |                                        | 
+[10:08:47]  ========================================== 
+[10:08:47]  
+[10:09:21]  
+[10:09:21]  ========================================== 
+[10:09:21]  |                                        | 
+[10:09:21]  |   File dumped to YSI code cache:       | 
+[10:09:21]  |                                        | 
+[10:09:21]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:09:21]  |                                        | 
+[10:09:21]  | Load this file instead to skip this    | 
+[10:09:21]  | code optimisation step in the future.  | 
+[10:09:21]  | Note that if you have multiple scripts | 
+[10:09:21]  | loading at once (i.e. gamemodes,       | 
+[10:09:21]  | filterscripts, and modules) you may    | 
+[10:09:21]  | need to load and cache them            | 
+[10:09:21]  | individually so that they don't        | 
+[10:09:21]  | clobber each other.  If you don't, in  | 
+[10:09:21]  | "server.cfg", the following works:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:09:21]  |                                        | 
+[10:09:21]  | You can disable this message with:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:09:21]  |                                        | 
+[10:09:21]  | You can disable this caching with:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   #define YSI_NO_MODE_CACHE            | 
+[10:09:21]  |                                        | 
+[10:09:21]  | You can explicitly enable it with:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   #define YSI_YES_MODE_CACHE           | 
+[10:09:21]  |                                        | 
+[10:09:21]  ========================================== 
+[10:09:21]  
+[10:09:21]  
+[10:09:21]  
+[10:09:21]  
+[10:09:21]  ========================================== 
+[10:09:21]  |                                        | 
+[10:09:21]  |         YSI version 5.03.0689          | 
+[10:09:21]  |         By Alex "Y_Less" Cole          | 
+[10:09:21]  |                                        | 
+[10:09:21]  | You can disable this message with:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:09:21]  |                                        | 
+[10:09:21]  ========================================== 
+[10:09:21]  
+[10:09:21] Invalid MySQL server... Restarting.
+[10:09:21]  
+[10:09:21] -> Loading SWAT vs Terrorists v0.0.1
+[10:09:21]  
+[10:09:21] Number of vehicle models: 73
+[10:09:21] Unloaded 34 zones.
+[10:09:21] SvT was unloaded in 5 ms.
+[10:09:21]  
+[10:09:21]  ========================================== 
+[10:09:21]  |                                        | 
+[10:09:21]  |    Generating code, this may take a    | 
+[10:09:21]  |           little bit of time.          | 
+[10:09:21]  |                                        | 
+[10:09:21]  |             Please wait...             | 
+[10:09:21]  |                                        | 
+[10:09:21]  | You can disable this message with:     | 
+[10:09:21]  |                                        | 
+[10:09:21]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:09:21]  |                                        | 
+[10:09:21]  ========================================== 
+[10:09:21]  |                                        | 
+[10:09:21]  | Note that this code generation works   | 
+[10:09:21]  | best with the JIT plugin, which you    | 
+[10:09:21]  | are not currently using.  Get it here: | 
+[10:09:21]  |                                        | 
+[10:09:21]  |        https://git.io/jit-plugin       | 
+[10:09:21]  |                                        | 
+[10:09:21]  ========================================== 
+[10:09:21]  
+[10:09:57]  
+[10:09:57]  ========================================== 
+[10:09:57]  |                                        | 
+[10:09:57]  |   File dumped to YSI code cache:       | 
+[10:09:57]  |                                        | 
+[10:09:57]  |      scriptfiles/YSI_CACHE.amx         | 
+[10:09:57]  |                                        | 
+[10:09:57]  | Load this file instead to skip this    | 
+[10:09:57]  | code optimisation step in the future.  | 
+[10:09:57]  | Note that if you have multiple scripts | 
+[10:09:57]  | loading at once (i.e. gamemodes,       | 
+[10:09:57]  | filterscripts, and modules) you may    | 
+[10:09:57]  | need to load and cache them            | 
+[10:09:57]  | individually so that they don't        | 
+[10:09:57]  | clobber each other.  If you don't, in  | 
+[10:09:57]  | "server.cfg", the following works:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[10:09:57]  |                                        | 
+[10:09:57]  | You can disable this message with:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[10:09:57]  |                                        | 
+[10:09:57]  | You can disable this caching with:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   #define YSI_NO_MODE_CACHE            | 
+[10:09:57]  |                                        | 
+[10:09:57]  | You can explicitly enable it with:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   #define YSI_YES_MODE_CACHE           | 
+[10:09:57]  |                                        | 
+[10:09:57]  ========================================== 
+[10:09:57]  
+[10:09:57]  
+[10:09:57]  
+[10:09:57]  
+[10:09:57]  ========================================== 
+[10:09:57]  |                                        | 
+[10:09:57]  |         YSI version 5.03.0689          | 
+[10:09:57]  |         By Alex "Y_Less" Cole          | 
+[10:09:57]  |                                        | 
+[10:09:57]  | You can disable this message with:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:09:57]  |                                        | 
+[10:09:57]  ========================================== 
+[10:09:57]  
+[10:09:57] Invalid MySQL server... Restarting.
+[10:09:57]  
+[10:09:57] -> Loading SWAT vs Terrorists v0.0.1
+[10:09:57]  
+[10:09:57] Number of vehicle models: 73
+[10:09:57] Unloaded 34 zones.
+[10:09:57] SvT was unloaded in 7 ms.
+[10:09:57]  
+[10:09:57]  ========================================== 
+[10:09:57]  |                                        | 
+[10:09:57]  |    Generating code, this may take a    | 
+[10:09:57]  |           little bit of time.          | 
+[10:09:57]  |                                        | 
+[10:09:57]  |             Please wait...             | 
+[10:09:57]  |                                        | 
+[10:09:57]  | You can disable this message with:     | 
+[10:09:57]  |                                        | 
+[10:09:57]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:09:57]  |                                        | 
+[10:09:57]  ========================================== 
+[10:09:57]  |                                        | 
+[10:09:57]  | Note that this code generation works   | 
+[10:09:57]  | best with the JIT plugin, which you    | 
+[10:09:57]  | are not currently using.  Get it here: | 
+[10:09:57]  |                                        | 
+[10:09:57]  |        https://git.io/jit-plugin       | 
+[10:09:57]  |                                        | 
+[10:09:57]  ========================================== 
+[10:09:57]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:11:22] 
+[10:11:22] Server Plugins
+[10:11:22] --------------
+[10:11:22]  Loading plugin: crashdetect.so
+[10:11:22]   CrashDetect plugin 4.19.4
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: sscanf.so
+[10:11:22] 
+
+[10:11:22]  ===============================
+
+[10:11:22]       sscanf plugin loaded.     
+
+[10:11:22]          Version:  2.8.3        
+
+[10:11:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:11:22]  ===============================
+
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: mysql.so
+[10:11:22]  >> plugin.mysql: R41-4 successfully loaded.
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: streamer.so
+[10:11:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: bcrypt-samp.so
+[10:11:22]   plugin.bcrypt v2.2.4 was loaded.
+[10:11:22]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: SKY.so
+[10:11:22] 
+[10:11:22]  ===============================
+[10:11:22]    
+[10:11:22]    < SKY - 2.2.2 >
+[10:11:22]    
+[10:11:22]    (c) 2008 - Present | YSF Maintainers
+[10:11:22]    (c) 2015 | Oscar "Slice" Broman
+[10:11:22]    
+[10:11:22]    Server Version: 0.3.7 R2
+[10:11:22]    Operating System: Linux
+[10:11:22]    Built on: Jan 20 2020 at 22:20:49
+[10:11:22]    
+[10:11:22]  ===============================
+[10:11:22] 
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: pawncmd.so
+[10:11:22] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: pawnraknet.so
+[10:11:22] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: pawnregex.so
+[10:11:22] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:11:22]   Loaded.
+[10:11:22]  Loading plugin: ColAndreas_static.so
+[10:11:22] *********************
+[10:11:22] ** Created By:     **
+[10:11:22] ** [uL]Chris42O    **
+[10:11:22] ** [uL]Slice       **
+[10:11:22] ** [uL]Pottus      **
+[10:11:22] *********************
+[10:11:50] Loaded collision data.
+[10:11:50] *********************
+[10:11:50]   ColAndreas Loaded
+[10:11:50]    v1.4.0
+[10:11:50] *********************
+[10:11:50]   Loaded.
+[10:11:50]  Loaded 10 plugins.
+
+[10:11:50] 
+[10:11:50] Filterscripts
+[10:11:50] ---------------
+[10:11:50]   Loaded 0 filterscripts.
+
+[10:11:50]  
+[10:11:50]  ========================================== 
+[10:11:50]  |                                        | 
+[10:11:50]  |    Generating code, this may take a    | 
+[10:11:50]  |           little bit of time.          | 
+[10:11:50]  |                                        | 
+[10:11:50]  |             Please wait...             | 
+[10:11:50]  |                                        | 
+[10:11:50]  | You can disable this message with:     | 
+[10:11:50]  |                                        | 
+[10:11:50]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:11:50]  |                                        | 
+[10:11:50]  ========================================== 
+[10:11:50]  |                                        | 
+[10:11:50]  | Note that this code generation works   | 
+[10:11:50]  | best with the JIT plugin, which you    | 
+[10:11:50]  | are not currently using.  Get it here: | 
+[10:11:50]  |                                        | 
+[10:11:50]  |        https://git.io/jit-plugin       | 
+[10:11:50]  |                                        | 
+[10:11:50]  ========================================== 
+[10:11:50]  
+[10:12:07]  
+[10:12:07]  
+[10:12:07]  
+[10:12:07]  ========================================== 
+[10:12:07]  |                                        | 
+[10:12:07]  |         YSI version 5.03.0689          | 
+[10:12:07]  |         By Alex "Y_Less" Cole          | 
+[10:12:07]  |                                        | 
+[10:12:07]  | You can disable this message with:     | 
+[10:12:07]  |                                        | 
+[10:12:07]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:12:07]  |                                        | 
+[10:12:07]  ========================================== 
+[10:12:07]  
+[10:12:07] MySQL Connection Successful
+[10:12:07] The file "Terrorists.txt" does not exists, or can't be opened.
+[10:12:07] Loaded 34 zones.
+[10:12:07] Loaded 4 anti air vehicles.
+[10:12:07] Loaded 12 submarines.
+[10:12:07] Server was initialized in 46 ms!
+[10:12:07] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[10:12:07]  
+[10:12:07] -> Loading SWAT vs Terrorists v0.0.1
+[10:12:07]  
+[10:12:07] Number of vehicle models: 75
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:23:19] 
+[10:23:19] Server Plugins
+[10:23:19] --------------
+[10:23:19]  Loading plugin: crashdetect.so
+[10:23:19]   CrashDetect plugin 4.19.4
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: sscanf.so
+[10:23:19] 
+
+[10:23:19]  ===============================
+
+[10:23:19]       sscanf plugin loaded.     
+
+[10:23:19]          Version:  2.8.3        
+
+[10:23:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:23:19]  ===============================
+
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: mysql.so
+[10:23:19]  >> plugin.mysql: R41-4 successfully loaded.
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: streamer.so
+[10:23:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: bcrypt-samp.so
+[10:23:19]   plugin.bcrypt v2.2.4 was loaded.
+[10:23:19]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: SKY.so
+[10:23:19] 
+[10:23:19]  ===============================
+[10:23:19]    
+[10:23:19]    < SKY - 2.2.2 >
+[10:23:19]    
+[10:23:19]    (c) 2008 - Present | YSF Maintainers
+[10:23:19]    (c) 2015 | Oscar "Slice" Broman
+[10:23:19]    
+[10:23:19]    Server Version: 0.3.7 R2
+[10:23:19]    Operating System: Linux
+[10:23:19]    Built on: Jan 20 2020 at 22:20:49
+[10:23:19]    
+[10:23:19]  ===============================
+[10:23:19] 
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: pawncmd.so
+[10:23:19] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: pawnraknet.so
+[10:23:19] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: pawnregex.so
+[10:23:19] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:23:19]   Loaded.
+[10:23:19]  Loading plugin: ColAndreas_static.so
+[10:23:19] *********************
+[10:23:19] ** Created By:     **
+[10:23:19] ** [uL]Chris42O    **
+[10:23:19] ** [uL]Slice       **
+[10:23:19] ** [uL]Pottus      **
+[10:23:19] *********************
+[10:23:46] Loaded collision data.
+[10:23:46] *********************
+[10:23:46]   ColAndreas Loaded
+[10:23:46]    v1.4.0
+[10:23:46] *********************
+[10:23:46]   Loaded.
+[10:23:46]  Loaded 10 plugins.
+
+[10:23:46] 
+[10:23:46] Filterscripts
+[10:23:46] ---------------
+[10:23:46]   Loaded 0 filterscripts.
+
+[10:23:47]  
+[10:23:47]  ========================================== 
+[10:23:47]  |                                        | 
+[10:23:47]  |    Generating code, this may take a    | 
+[10:23:47]  |           little bit of time.          | 
+[10:23:47]  |                                        | 
+[10:23:47]  |             Please wait...             | 
+[10:23:47]  |                                        | 
+[10:23:47]  | You can disable this message with:     | 
+[10:23:47]  |                                        | 
+[10:23:47]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[10:23:47]  |                                        | 
+[10:23:47]  ========================================== 
+[10:23:47]  |                                        | 
+[10:23:47]  | Note that this code generation works   | 
+[10:23:47]  | best with the JIT plugin, which you    | 
+[10:23:47]  | are not currently using.  Get it here: | 
+[10:23:47]  |                                        | 
+[10:23:47]  |        https://git.io/jit-plugin       | 
+[10:23:47]  |                                        | 
+[10:23:47]  ========================================== 
+[10:23:47]  
+[10:24:04]  
+[10:24:04]  
+[10:24:04]  
+[10:24:04]  ========================================== 
+[10:24:04]  |                                        | 
+[10:24:04]  |         YSI version 5.03.0689          | 
+[10:24:04]  |         By Alex "Y_Less" Cole          | 
+[10:24:04]  |                                        | 
+[10:24:04]  | You can disable this message with:     | 
+[10:24:04]  |                                        | 
+[10:24:04]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:24:04]  |                                        | 
+[10:24:04]  ========================================== 
+[10:24:04]  
+[10:24:04] MySQL Connection Successful
+[10:24:04] Loaded 34 zones.
+[10:24:04] Loaded 4 anti air vehicles.
+[10:24:04] Loaded 12 submarines.
+[10:24:04] Server was initialized in 25 ms!
+[10:24:04] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[10:24:04]  
+[10:24:04] -> Loading SWAT vs Terrorists v0.0.1
+[10:24:04]  
+[10:24:04] Number of vehicle models: 75
+[10:27:12] [connection] incoming connection: 127.0.0.1:42615 id: 0
+[10:27:12] [join] H2O has joined the server (0:127.0.0.1)
+[10:27:12] ::SvT :: {A9A9A9}H2O[0] has joined (IP 127.0.0.1)
+[10:27:46] [Inventory] Added 1 of Helmet to H2O[0] - total: 1
+[10:27:46] [Toys] Added helmet to H2O[0]
+[10:27:54] [chat] [H2O]: ha
+[10:27:54] H2O [0]:{FFFFFF} ha
+[10:27:59] [part] H2O has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:53:56] 
+[10:53:56] Server Plugins
+[10:53:56] --------------
+[10:53:56]  Loading plugin: crashdetect.so
+[10:53:56]   CrashDetect plugin 4.19.4
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: sscanf.so
+[10:53:56] 
+
+[10:53:56]  ===============================
+
+[10:53:56]       sscanf plugin loaded.     
+
+[10:53:56]          Version:  2.8.3        
+
+[10:53:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:53:56]  ===============================
+
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: mysql.so
+[10:53:56]  >> plugin.mysql: R41-4 successfully loaded.
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: streamer.so
+[10:53:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: bcrypt-samp.so
+[10:53:56]   plugin.bcrypt v2.2.4 was loaded.
+[10:53:56]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: SKY.so
+[10:53:56] 
+[10:53:56]  ===============================
+[10:53:56]    
+[10:53:56]    < SKY - 2.2.2 >
+[10:53:56]    
+[10:53:56]    (c) 2008 - Present | YSF Maintainers
+[10:53:56]    (c) 2015 | Oscar "Slice" Broman
+[10:53:56]    
+[10:53:56]    Server Version: 0.3.7 R2
+[10:53:56]    Operating System: Linux
+[10:53:56]    Built on: Jan 20 2020 at 22:20:49
+[10:53:56]    
+[10:53:56]  ===============================
+[10:53:56] 
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: pawncmd.so
+[10:53:56] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: pawnraknet.so
+[10:53:56] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: pawnregex.so
+[10:53:56] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:53:56]   Loaded.
+[10:53:56]  Loading plugin: ColAndreas_static.so
+[10:53:56] *********************
+[10:53:56] ** Created By:     **
+[10:53:56] ** [uL]Chris42O    **
+[10:53:56] ** [uL]Slice       **
+[10:53:56] ** [uL]Pottus      **
+[10:53:56] *********************
+[10:54:20] Loaded collision data.
+[10:54:20] *********************
+[10:54:20]   ColAndreas Loaded
+[10:54:20]    v1.4.0
+[10:54:20] *********************
+[10:54:20]   Loaded.
+[10:54:20]  Loaded 10 plugins.
+
+[10:54:20] 
+[10:54:20] Filterscripts
+[10:54:20] ---------------
+[10:54:20]   Loaded 0 filterscripts.
+
+[10:54:39]  
+[10:54:39]  
+[10:54:39]  
+[10:54:39]  ========================================== 
+[10:54:39]  |                                        | 
+[10:54:39]  |         YSI version 5.03.0689          | 
+[10:54:39]  |         By Alex "Y_Less" Cole          | 
+[10:54:39]  |                                        | 
+[10:54:39]  | You can disable this message with:     | 
+[10:54:39]  |                                        | 
+[10:54:39]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:54:39]  |                                        | 
+[10:54:39]  ========================================== 
+[10:54:39]  
+[10:54:39] MySQL Connection Successful
+[10:54:39] Can't create team "Terrorists". Invalid parameters.
+[10:54:39] Loaded 34 zones.
+[10:54:39] Loaded 4 anti air vehicles.
+[10:54:39] Loaded 12 submarines.
+[10:54:39] Server was initialized in 43 ms!
+[10:54:39] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[10:54:39]  
+[10:54:39] -> Loading SWAT vs Terrorists v0.0.1
+[10:54:39]  
+[10:54:39] Number of vehicle models: 75
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:57:31] 
+[10:57:31] Server Plugins
+[10:57:31] --------------
+[10:57:31]  Loading plugin: crashdetect.so
+[10:57:31]   CrashDetect plugin 4.19.4
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: sscanf.so
+[10:57:31] 
+
+[10:57:31]  ===============================
+
+[10:57:31]       sscanf plugin loaded.     
+
+[10:57:31]          Version:  2.8.3        
+
+[10:57:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:57:31]  ===============================
+
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: mysql.so
+[10:57:31]  >> plugin.mysql: R41-4 successfully loaded.
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: streamer.so
+[10:57:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: bcrypt-samp.so
+[10:57:31]   plugin.bcrypt v2.2.4 was loaded.
+[10:57:31]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: SKY.so
+[10:57:31] 
+[10:57:31]  ===============================
+[10:57:31]    
+[10:57:31]    < SKY - 2.2.2 >
+[10:57:31]    
+[10:57:31]    (c) 2008 - Present | YSF Maintainers
+[10:57:31]    (c) 2015 | Oscar "Slice" Broman
+[10:57:31]    
+[10:57:31]    Server Version: 0.3.7 R2
+[10:57:31]    Operating System: Linux
+[10:57:31]    Built on: Jan 20 2020 at 22:20:49
+[10:57:31]    
+[10:57:31]  ===============================
+[10:57:31] 
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: pawncmd.so
+[10:57:31] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: pawnraknet.so
+[10:57:31] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: pawnregex.so
+[10:57:31] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:57:31]   Loaded.
+[10:57:31]  Loading plugin: ColAndreas_static.so
+[10:57:31] *********************
+[10:57:31] ** Created By:     **
+[10:57:31] ** [uL]Chris42O    **
+[10:57:31] ** [uL]Slice       **
+[10:57:31] ** [uL]Pottus      **
+[10:57:31] *********************
+[10:57:56] Loaded collision data.
+[10:57:56] *********************
+[10:57:56]   ColAndreas Loaded
+[10:57:56]    v1.4.0
+[10:57:56] *********************
+[10:57:56]   Loaded.
+[10:57:56]  Loaded 10 plugins.
+
+[10:57:56] 
+[10:57:56] Filterscripts
+[10:57:56] ---------------
+[10:57:56]   Loaded 0 filterscripts.
+
+[10:58:13]  
+[10:58:13]  
+[10:58:13]  
+[10:58:13]  ========================================== 
+[10:58:13]  |                                        | 
+[10:58:13]  |         YSI version 5.03.0689          | 
+[10:58:13]  |         By Alex "Y_Less" Cole          | 
+[10:58:13]  |                                        | 
+[10:58:13]  | You can disable this message with:     | 
+[10:58:13]  |                                        | 
+[10:58:13]  |   #define YSI_NO_VERSION_CHECK         | 
+[10:58:13]  |                                        | 
+[10:58:13]  ========================================== 
+[10:58:13]  
+[10:58:13] MySQL Connection Successful
+[10:58:13] Can't create team "Terrorists". Invalid parameters.
+[10:58:13] Loaded 34 zones.
+[10:58:13] Loaded 4 anti air vehicles.
+[10:58:13] Loaded 12 submarines.
+[10:58:13] Server was initialized in 30 ms!
+[10:58:13] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[10:58:13]  
+[10:58:13] -> Loading SWAT vs Terrorists v0.0.1
+[10:58:13]  
+[10:58:13] Number of vehicle models: 75
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:59:15] 
+[10:59:15] Server Plugins
+[10:59:15] --------------
+[10:59:15]  Loading plugin: crashdetect.so
+[10:59:15]   CrashDetect plugin 4.19.4
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: sscanf.so
+[10:59:15] 
+
+[10:59:15]  ===============================
+
+[10:59:15]       sscanf plugin loaded.     
+
+[10:59:15]          Version:  2.8.3        
+
+[10:59:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:59:15]  ===============================
+
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: mysql.so
+[10:59:15]  >> plugin.mysql: R41-4 successfully loaded.
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: streamer.so
+[10:59:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: bcrypt-samp.so
+[10:59:15]   plugin.bcrypt v2.2.4 was loaded.
+[10:59:15]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: SKY.so
+[10:59:15] 
+[10:59:15]  ===============================
+[10:59:15]    
+[10:59:15]    < SKY - 2.2.2 >
+[10:59:15]    
+[10:59:15]    (c) 2008 - Present | YSF Maintainers
+[10:59:15]    (c) 2015 | Oscar "Slice" Broman
+[10:59:15]    
+[10:59:15]    Server Version: 0.3.7 R2
+[10:59:15]    Operating System: Linux
+[10:59:15]    Built on: Jan 20 2020 at 22:20:49
+[10:59:15]    
+[10:59:15]  ===============================
+[10:59:15] 
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: pawncmd.so
+[10:59:15] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: pawnraknet.so
+[10:59:15] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: pawnregex.so
+[10:59:15] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:59:15]   Loaded.
+[10:59:15]  Loading plugin: ColAndreas_static.so
+[10:59:15] *********************
+[10:59:15] ** Created By:     **
+[10:59:15] ** [uL]Chris42O    **
+[10:59:15] ** [uL]Slice       **
+[10:59:15] ** [uL]Pottus      **
+[10:59:15] *********************
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:59:35] 
+[10:59:35] Server Plugins
+[10:59:35] --------------
+[10:59:35]  Loading plugin: crashdetect.so
+[10:59:35]   CrashDetect plugin 4.19.4
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: sscanf.so
+[10:59:35] 
+
+[10:59:35]  ===============================
+
+[10:59:35]       sscanf plugin loaded.     
+
+[10:59:35]          Version:  2.8.3        
+
+[10:59:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:59:35]  ===============================
+
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: mysql.so
+[10:59:35]  >> plugin.mysql: R41-4 successfully loaded.
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: streamer.so
+[10:59:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: bcrypt-samp.so
+[10:59:35]   plugin.bcrypt v2.2.4 was loaded.
+[10:59:35]   plugin.bcrypt: 2 cores detected, 1 threads will be used.
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: SKY.so
+[10:59:35] 
+[10:59:35]  ===============================
+[10:59:35]    
+[10:59:35]    < SKY - 2.2.2 >
+[10:59:35]    
+[10:59:35]    (c) 2008 - Present | YSF Maintainers
+[10:59:35]    (c) 2015 | Oscar "Slice" Broman
+[10:59:35]    
+[10:59:35]    Server Version: 0.3.7 R2
+[10:59:35]    Operating System: Linux
+[10:59:35]    Built on: Jan 20 2020 at 22:20:49
+[10:59:35]    
+[10:59:35]  ===============================
+[10:59:35] 
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: pawncmd.so
+[10:59:35] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[10:59:35]   Loaded.
+[10:59:35]  Loading plugin: pawnraknet.so
+[10:59:35] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[10:59:36]   Loaded.
+[10:59:36]  Loading plugin: pawnregex.so
+[10:59:36] [Pawn.Regex] plugin v1.1.3 by urShadow loaded
+[10:59:36]   Loaded.
+[10:59:36]  Loading plugin: ColAndreas_static.so
+[10:59:36] *********************
+[10:59:36] ** Created By:     **
+[10:59:36] ** [uL]Chris42O    **
+[10:59:36] ** [uL]Slice       **
+[10:59:36] ** [uL]Pottus      **
+[10:59:36] *********************
+[10:59:51] Loaded collision data.
+[10:59:51] *********************
+[10:59:51]   ColAndreas Loaded
+[10:59:51]    v1.4.0
+[10:59:51] *********************
+[10:59:51]   Loaded.
+[10:59:51]  Loaded 10 plugins.
+
+[10:59:51] 
+[10:59:51] Filterscripts
+[10:59:51] ---------------
+[10:59:51]   Loaded 0 filterscripts.
+
+[10:59:51] [debug] Server crashed due to an unknown error
+[11:00:07] Loaded collision data.
+[11:00:07] *********************
+[11:00:07]   ColAndreas Loaded
+[11:00:07]    v1.4.0
+[11:00:07] *********************
+[11:00:07]   Loaded.
+[11:00:07]  Loaded 10 plugins.
+
+[11:00:08] 
+[11:00:08] Filterscripts
+[11:00:08] ---------------
+[11:00:08]   Loaded 0 filterscripts.
+
+[11:00:25]  
+[11:00:25]  
+[11:00:25]  
+[11:00:25]  ========================================== 
+[11:00:25]  |                                        | 
+[11:00:25]  |         YSI version 5.03.0689          | 
+[11:00:25]  |         By Alex "Y_Less" Cole          | 
+[11:00:25]  |                                        | 
+[11:00:25]  | You can disable this message with:     | 
+[11:00:25]  |                                        | 
+[11:00:25]  |   #define YSI_NO_VERSION_CHECK         | 
+[11:00:25]  |                                        | 
+[11:00:25]  ========================================== 
+[11:00:25]  
+[11:00:26] MySQL Connection Successful
+[11:00:26] Loaded 34 zones.
+[11:00:26] Loaded 4 anti air vehicles.
+[11:00:26] Loaded 12 submarines.
+[11:00:26] Server was initialized in 32 ms!
+[11:00:26] (c) H2O Multiplayer 2018-2019. All rights reserved.
+[11:00:26]  
+[11:00:26] -> Loading SWAT vs Terrorists v0.0.1
+[11:00:26]  
+[11:00:26] Number of vehicle models: 75
+[11:03:33] [connection] incoming connection: 127.0.0.1:47509 id: 0
+[11:03:33] [join] H2O has joined the server (0:127.0.0.1)
+[11:03:33] ::SvT :: {A9A9A9}H2O[0] has joined (IP 127.0.0.1)
+[11:04:16] [Inventory] Added 1 of Helmet to H2O[0] - total: 1
+[11:04:16] [Toys] Added helmet to H2O[0]
+[11:04:20] [chat] [H2O]: ha
+[11:04:20] H2O [0]:{FFFFFF} ha
+[11:04:22] *H2O [0] used: teams 
+[11:04:25] [part] H2O has left the server (0:1)

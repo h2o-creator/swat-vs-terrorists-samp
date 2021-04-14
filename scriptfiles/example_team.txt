@@ -1,0 +1,22 @@
+[FOLLOWING DATA HAVE TO BE PRESENT IN-LINE, AS OTHER TEAMS!]
+i.e. SWAT,~b~,0xFF
+
+TeamName = ?
+TeamBubble = ?
+ShopColor = ?
+MapZoneMinX = ?
+MapZoneMinY = ?
+MapZoneMaxX = ?
+MapZoneMaxY = ?
+ClassSkin = ?
+ShopPosX = ?
+ShopPosY = ?
+ShopPosZ = ?
+AntennaPosX = ?
+AntennaPosY = ?
+AntennaPosZ = ?
+AntennaRot = ?
+ProtoPosX = ?
+ProtoPosY = ?
+ProtoPosZ = ?
+ProtoRot = ?
